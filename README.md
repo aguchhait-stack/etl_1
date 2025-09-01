@@ -1,17 +1,35 @@
-# ETL Project
+# ETL Project (etl_1)
 
 This repository contains my practice work on ETL (Extract, Transform, Load).
 
-## What’s Inside
-- Jupyter notebooks and/or Python scripts for ETL tasks.
-- Examples of data cleaning, transformation, and loading.
-- Notes on approaches and learnings.
+## ✨ Highlights
+- Robust **date parsing** with `errors='coerce'`
+- Safe **numeric coercion** + NA handling
+- Generic cleaner for dimensional tables
+- Clear logging on success/failure per file
 
-## Usage
-Clone the repo and open the notebooks in Jupyter:
+## 📦 Requirements
+- Python 3.9+
+- Packages: `pandas`, `numpy` (optional), `requests` (optional if you later fetch over HTTP)
 
+Install:
 ```bash
-git clone https://github.com/aguchhait-stack/etl_1.git
-cd etl_1
-jupyter notebook
+pip install pandas numpy
+# ETL Project (etl_1)
+
+This repository contains my practice work on ETL (Extract, Transform, Load).
+
+## ✨ Highlights
+- Robust **date parsing** with `errors='coerce'`
+- Safe **numeric coercion** + NA handling
+- Generic cleaner for dimensional tables
+- Clear logging on success/failure per file
+
+## 📦 Requirements
+- Python 3.9+
+- Packages: `pandas`, `numpy` (optional), `requests` (optional if you later fetch over HTTP)
+
+Install:
+```bash
+pip install pandas numpy
 
