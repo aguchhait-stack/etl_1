@@ -1,0 +1,521 @@
+City,State,Region,Country
+Gaithersburg,Maryland,East,United States
+Los Angeles,California,West,United States
+San Antonio,Texas,Central,United States
+Broken Arrow,Oklahoma,Central,United States
+Charlotte,North Carolina,South,United States
+Philadelphia,Pennsylvania,East,United States
+Jacksonville,Florida,South,United States
+Oakland,California,West,United States
+Amarillo,Texas,Central,United States
+Franklin,Wisconsin,Central,United States
+Raleigh,North Carolina,South,United States
+Fresno,California,West,United States
+Toledo,Ohio,East,United States
+Seattle,Washington,West,United States
+Longview,Washington,West,United States
+Springfield,Ohio,East,United States
+Columbus,Ohio,East,United States
+Concord,North Carolina,South,United States
+Westfield,New Jersey,East,United States
+Fairfield,Connecticut,East,United States
+New York City,New York,East,United States
+Concord,New Hampshire,East,United States
+Columbus,Georgia,South,United States
+San Diego,California,West,United States
+Morristown,New Jersey,East,United States
+Fayetteville,North Carolina,South,United States
+Cleveland,Ohio,East,United States
+Burlington,Vermont,East,United States
+Gulfport,Mississippi,South,United States
+Plainfield,New Jersey,East,United States
+San Francisco,California,West,United States
+Chicago,Illinois,Central,United States
+Rockford,Illinois,Central,United States
+Dallas,Texas,Central,United States
+Atlantic City,New Jersey,East,United States
+Atlanta,Georgia,South,United States
+Arlington,Virginia,South,United States
+Houston,Texas,Central,United States
+Richmond,Kentucky,South,United States
+Sierra Vista,Arizona,West,United States
+Rockville,Maryland,East,United States
+Smyrna,Georgia,South,United States
+Chattanooga,Tennessee,South,United States
+Springfield,Virginia,South,United States
+Lancaster,Ohio,East,United States
+Tulsa,Oklahoma,Central,United States
+Clinton,Maryland,East,United States
+Jackson,Mississippi,South,United States
+Belleville,New Jersey,East,United States
+Henderson,Kentucky,South,United States
+Long Beach,New York,East,United States
+Nashville,Tennessee,South,United States
+Oceanside,New York,East,United States
+Tampa,Florida,South,United States
+Milwaukee,Wisconsin,Central,United States
+Newark,Ohio,East,United States
+La Crosse,Wisconsin,Central,United States
+Yonkers,New York,East,United States
+Denver,Colorado,West,United States
+Newark,Delaware,East,United States
+Odessa,Texas,Central,United States
+Bloomington,Indiana,Central,United States
+Round Rock,Texas,Central,United States
+Miami,Florida,South,United States
+Mishawaka,Indiana,Central,United States
+Dover,New Hampshire,East,United States
+Fort Worth,Texas,Central,United States
+Glendale,Arizona,West,United States
+Jackson,Michigan,Central,United States
+Milford,Connecticut,East,United States
+Andover,Massachusetts,East,United States
+Eagan,Minnesota,Central,United States
+Vineland,New Jersey,East,United States
+Monroe,Louisiana,South,United States
+Scottsdale,Arizona,West,United States
+Waynesboro,Virginia,South,United States
+Riverside,California,West,United States
+Harlingen,Texas,Central,United States
+Redwood City,California,West,United States
+Green Bay,Wisconsin,Central,United States
+Bryan,Texas,Central,United States
+Malden,Massachusetts,East,United States
+Columbia,Maryland,East,United States
+Memphis,Tennessee,South,United States
+Columbia,Tennessee,South,United States
+Littleton,Colorado,West,United States
+Salem,Oregon,West,United States
+Evanston,Illinois,Central,United States
+Saint Peters,Missouri,Central,United States
+North Las Vegas,Nevada,West,United States
+Gresham,Oregon,West,United States
+Richmond,Indiana,Central,United States
+Norman,Oklahoma,Central,United States
+Jacksonville,North Carolina,South,United States
+Pocatello,Idaho,West,United States
+Norwich,Connecticut,East,United States
+Auburn,New York,East,United States
+Troy,New York,East,United States
+Lakewood,New Jersey,East,United States
+Troy,Ohio,East,United States
+Hot Springs,Arkansas,South,United States
+Detroit,Michigan,Central,United States
+Bakersfield,California,West,United States
+Wilson,North Carolina,South,United States
+Alexandria,Virginia,South,United States
+Baltimore,Maryland,East,United States
+Gastonia,North Carolina,South,United States
+Grapevine,Texas,Central,United States
+Omaha,Nebraska,Central,United States
+Lakewood,California,West,United States
+Elmhurst,Illinois,Central,United States
+Chesapeake,Virginia,South,United States
+Phoenix,Arizona,West,United States
+Jefferson City,Missouri,Central,United States
+Aurora,Illinois,Central,United States
+Rome,New York,East,United States
+Hesperia,California,West,United States
+San Clemente,California,West,United States
+Colorado Springs,Colorado,West,United States
+Saint Charles,Illinois,Central,United States
+Little Rock,Arkansas,South,United States
+Greensboro,North Carolina,South,United States
+Irving,Texas,Central,United States
+Louisville,Kentucky,South,United States
+Murfreesboro,Tennessee,South,United States
+Encinitas,California,West,United States
+Henderson,Nevada,West,United States
+Tallahassee,Florida,South,United States
+Lorain,Ohio,East,United States
+Springfield,Missouri,Central,United States
+Dover,Delaware,East,United States
+Salem,Virginia,South,United States
+Austin,Texas,Central,United States
+Virginia Beach,Virginia,South,United States
+Mission Viejo,California,West,United States
+Cincinnati,Ohio,East,United States
+Yuma,Arizona,West,United States
+Fort Lauderdale,Florida,South,United States
+Middletown,Connecticut,East,United States
+Apopka,Florida,South,United States
+Waterbury,Connecticut,East,United States
+Lafayette,Indiana,Central,United States
+Vallejo,California,West,United States
+Asheville,North Carolina,South,United States
+Port Saint Lucie,Florida,South,United States
+Sparks,Nevada,West,United States
+Warwick,Rhode Island,East,United States
+Passaic,New Jersey,East,United States
+Athens,Georgia,South,United States
+Florence,Alabama,South,United States
+Newport News,Virginia,South,United States
+Washington,District of Columbia,East,United States
+Santa Ana,California,West,United States
+Delray Beach,Florida,South,United States
+Park Ridge,Illinois,Central,United States
+Montgomery,Alabama,South,United States
+Parker,Colorado,West,United States
+Wilmington,North Carolina,South,United States
+Hamilton,Ohio,East,United States
+Superior,Wisconsin,Central,United States
+Decatur,Illinois,Central,United States
+Santa Clara,California,West,United States
+Lowell,Massachusetts,East,United States
+Santa Barbara,California,West,United States
+Fairfield,Ohio,East,United States
+Minneapolis,Minnesota,Central,United States
+Arlington,Texas,Central,United States
+Decatur,Alabama,South,United States
+Wilmington,Delaware,East,United States
+Pasadena,California,West,United States
+Wichita,Kansas,Central,United States
+Anaheim,California,West,United States
+Boca Raton,Florida,South,United States
+Longmont,Colorado,West,United States
+Rochester,New York,East,United States
+Frankfort,Illinois,Central,United States
+Salinas,California,West,United States
+Carrollton,Texas,Central,United States
+Oklahoma City,Oklahoma,Central,United States
+Buffalo,New York,East,United States
+York,Pennsylvania,East,United States
+Providence,Rhode Island,East,United States
+Plano,Texas,Central,United States
+Roseville,Michigan,Central,United States
+Highland Park,Illinois,Central,United States
+Paterson,New Jersey,East,United States
+Florence,South Carolina,South,United States
+Sandy Springs,Georgia,South,United States
+Columbia,South Carolina,South,United States
+Lehi,Utah,West,United States
+Huntsville,Texas,Central,United States
+Hialeah,Florida,South,United States
+San Jose,California,West,United States
+Orem,Utah,West,United States
+Broomfield,Colorado,West,United States
+Mesa,Arizona,West,United States
+Tucson,Arizona,West,United States
+Huntsville,Alabama,South,United States
+Provo,Utah,West,United States
+Portland,Oregon,West,United States
+Grand Prairie,Texas,Central,United States
+Perth Amboy,New Jersey,East,United States
+Bowling Green,Kentucky,South,United States
+Hattiesburg,Mississippi,South,United States
+Roseville,California,West,United States
+Allentown,Pennsylvania,East,United States
+Westland,Michigan,Central,United States
+Mcallen,Texas,Central,United States
+Lafayette,Louisiana,South,United States
+Costa Mesa,California,West,United States
+Holland,Michigan,Central,United States
+Bethlehem,Pennsylvania,East,United States
+Pasadena,Texas,Central,United States
+Pensacola,Florida,South,United States
+Suffolk,Virginia,South,United States
+Peoria,Illinois,Central,United States
+Sacramento,California,West,United States
+Edmonds,Washington,West,United States
+Hendersonville,Tennessee,South,United States
+Des Moines,Iowa,Central,United States
+Lakeland,Florida,South,United States
+West Allis,Wisconsin,Central,United States
+Kenner,Louisiana,South,United States
+Akron,Ohio,East,United States
+Aurora,Colorado,West,United States
+Davis,California,West,United States
+Edinburg,Texas,Central,United States
+Greenville,North Carolina,South,United States
+Fort Collins,Colorado,West,United States
+Pharr,Texas,Central,United States
+Sheboygan,Wisconsin,Central,United States
+Quincy,Massachusetts,East,United States
+Hollywood,Florida,South,United States
+Englewood,Colorado,West,United States
+Waco,Texas,Central,United States
+Huntington Beach,California,West,United States
+Madison,Wisconsin,Central,United States
+Des Moines,Washington,West,United States
+Waukesha,Wisconsin,Central,United States
+Knoxville,Tennessee,South,United States
+Georgetown,Kentucky,South,United States
+Woodbury,Minnesota,Central,United States
+Jonesboro,Arkansas,South,United States
+Cedar Rapids,Iowa,Central,United States
+Olathe,Kansas,Central,United States
+Johnson City,Tennessee,South,United States
+Redondo Beach,California,West,United States
+Saint Paul,Minnesota,Central,United States
+Thomasville,North Carolina,South,United States
+Lancaster,California,West,United States
+Wheeling,Illinois,Central,United States
+Monroe,North Carolina,South,United States
+Visalia,California,West,United States
+Stockton,California,West,United States
+Bristol,Tennessee,South,United States
+Arvada,Colorado,West,United States
+Louisville,Colorado,West,United States
+Utica,New York,East,United States
+Twin Falls,Idaho,West,United States
+Laguna Niguel,California,West,United States
+Bangor,Maine,East,United States
+Columbus,Indiana,Central,United States
+Marlborough,Massachusetts,East,United States
+Redmond,Washington,West,United States
+Auburn,Alabama,South,United States
+New Rochelle,New York,East,United States
+Woodland,California,West,United States
+Orange,New Jersey,East,United States
+Grand Rapids,Michigan,Central,United States
+Smyrna,Tennessee,South,United States
+Pembroke Pines,Florida,South,United States
+Lawrence,Indiana,Central,United States
+Parma,Ohio,East,United States
+Tigard,Oregon,West,United States
+Long Beach,California,West,United States
+Covington,Washington,West,United States
+Iowa City,Iowa,Central,United States
+Redlands,California,West,United States
+Quincy,Illinois,Central,United States
+Mobile,Alabama,South,United States
+Springfield,Oregon,West,United States
+La Porte,Indiana,Central,United States
+Lake Forest,California,West,United States
+The Colony,Texas,Central,United States
+Coral Gables,Florida,South,United States
+Pueblo,Colorado,West,United States
+Spokane,Washington,West,United States
+Marysville,Washington,West,United States
+La Porte,Texas,Central,United States
+Laredo,Texas,Central,United States
+Appleton,Wisconsin,Central,United States
+Salt Lake City,Utah,West,United States
+Columbia,Missouri,Central,United States
+Tempe,Arizona,West,United States
+Trenton,Michigan,Central,United States
+El Cajon,California,West,United States
+Manchester,Connecticut,East,United States
+Lakewood,Ohio,East,United States
+Jackson,Tennessee,South,United States
+Richmond,Virginia,South,United States
+Lebanon,Tennessee,South,United States
+Hampton,Virginia,South,United States
+Boynton Beach,Florida,South,United States
+Bridgeton,New Jersey,East,United States
+Lansing,Michigan,Central,United States
+Sterling Heights,Michigan,Central,United States
+San Luis Obispo,California,West,United States
+Conroe,Texas,Central,United States
+Urbandale,Iowa,Central,United States
+Chula Vista,California,West,United States
+Eugene,Oregon,West,United States
+Oceanside,California,West,United States
+Cheyenne,Wyoming,West,United States
+Warner Robins,Georgia,South,United States
+Noblesville,Indiana,Central,United States
+Arlington Heights,Illinois,Central,United States
+Vancouver,Washington,West,United States
+Auburn,Washington,West,United States
+Burlington,North Carolina,South,United States
+Carlsbad,New Mexico,West,United States
+Kent,Ohio,East,United States
+Taylor,Michigan,Central,United States
+Concord,California,West,United States
+Niagara Falls,New York,East,United States
+Indianapolis,Indiana,Central,United States
+Edmond,Oklahoma,Central,United States
+Orlando,Florida,South,United States
+Montebello,California,West,United States
+Medford,Oregon,West,United States
+Bellevue,Washington,West,United States
+El Paso,Texas,Central,United States
+Shelton,Connecticut,East,United States
+Lincoln Park,Michigan,Central,United States
+Overland Park,Kansas,Central,United States
+East Orange,New Jersey,East,United States
+Palm Coast,Florida,South,United States
+Marietta,Georgia,South,United States
+Hickory,North Carolina,South,United States
+Oxnard,California,West,United States
+Franklin,Massachusetts,East,United States
+San Angelo,Texas,Central,United States
+Rochester,Minnesota,Central,United States
+Marion,Iowa,Central,United States
+Morgan Hill,California,West,United States
+Murray,Kentucky,South,United States
+Hempstead,New York,East,United States
+Antioch,California,West,United States
+Richardson,Texas,Central,United States
+Eau Claire,Wisconsin,Central,United States
+Lawrence,Massachusetts,East,United States
+Franklin,Tennessee,South,United States
+Fremont,Nebraska,Central,United States
+Greenwood,Indiana,Central,United States
+Watertown,New York,East,United States
+Homestead,Florida,South,United States
+Torrance,California,West,United States
+Fayetteville,Arkansas,South,United States
+Cuyahoga Falls,Ohio,East,United States
+Apple Valley,California,West,United States
+Goldsboro,North Carolina,South,United States
+Tamarac,Florida,South,United States
+Reading,Pennsylvania,East,United States
+Moreno Valley,California,West,United States
+Redmond,Oregon,West,United States
+Bowling Green,Ohio,East,United States
+Nashua,New Hampshire,East,United States
+Woodstock,Illinois,Central,United States
+Port Arthur,Texas,Central,United States
+Lancaster,Pennsylvania,East,United States
+West Palm Beach,Florida,South,United States
+Deer Park,Texas,Central,United States
+Reno,Nevada,West,United States
+Rancho Cucamonga,California,West,United States
+Tuscaloosa,Alabama,South,United States
+Ormond Beach,Florida,South,United States
+Keller,Texas,Central,United States
+Great Falls,Montana,West,United States
+Hoover,Alabama,South,United States
+Roswell,Georgia,South,United States
+Gilbert,Arizona,West,United States
+Muskogee,Oklahoma,Central,United States
+Dearborn Heights,Michigan,Central,United States
+Southaven,Mississippi,South,United States
+Chester,Pennsylvania,East,United States
+Cambridge,Massachusetts,East,United States
+Rogers,Arkansas,South,United States
+Albuquerque,New Mexico,West,United States
+Manteca,California,West,United States
+Tyler,Texas,Central,United States
+Pompano Beach,Florida,South,United States
+Beaumont,Texas,Central,United States
+Dearborn,Michigan,Central,United States
+Fairfield,California,West,United States
+Meriden,Connecticut,East,United States
+Des Plaines,Illinois,Central,United States
+Oak Park,Michigan,Central,United States
+New Brunswick,New Jersey,East,United States
+Lubbock,Texas,Central,United States
+Clarksville,Tennessee,South,United States
+Greeley,Colorado,West,United States
+Chandler,Arizona,West,United States
+Kissimmee,Florida,South,United States
+Dublin,Ohio,East,United States
+Sanford,Florida,South,United States
+Danville,Illinois,Central,United States
+Coral Springs,Florida,South,United States
+Texarkana,Arkansas,South,United States
+Westminster,California,West,United States
+Mansfield,Texas,Central,United States
+Everett,Massachusetts,East,United States
+Mount Vernon,New York,East,United States
+Fargo,North Dakota,Central,United States
+Las Vegas,Nevada,West,United States
+Harrisonburg,Virginia,South,United States
+Laurel,Maryland,East,United States
+Bellingham,Washington,West,United States
+Apple Valley,Minnesota,Central,United States
+Missouri City,Texas,Central,United States
+Frisco,Texas,Central,United States
+Pearland,Texas,Central,United States
+Skokie,Illinois,Central,United States
+Rochester Hills,Michigan,Central,United States
+Thousand Oaks,California,West,United States
+Peoria,Arizona,West,United States
+Kent,Washington,West,United States
+Saint Petersburg,Florida,South,United States
+Marion,Ohio,East,United States
+Maple Grove,Minnesota,Central,United States
+Florence,Kentucky,South,United States
+Chapel Hill,North Carolina,South,United States
+Olympia,Washington,West,United States
+Commerce City,Colorado,West,United States
+Corpus Christi,Texas,Central,United States
+Wheeling,West Virginia,East,United States
+Cranston,Rhode Island,East,United States
+Pomona,California,West,United States
+Bolingbrook,Illinois,Central,United States
+Mesquite,Texas,Central,United States
+Citrus Heights,California,West,United States
+Farmington,New Mexico,West,United States
+San Mateo,California,West,United States
+Pico Rivera,California,West,United States
+Waterloo,Iowa,Central,United States
+Sioux Falls,South Dakota,Central,United States
+Murray,Utah,West,United States
+Elkhart,Indiana,Central,United States
+Kenosha,Wisconsin,Central,United States
+Bloomington,Illinois,Central,United States
+Loveland,Colorado,West,United States
+Cedar Hill,Texas,Central,United States
+Moorhead,Minnesota,Central,United States
+Bedford,Texas,Central,United States
+Lake Charles,Louisiana,South,United States
+Roseville,Minnesota,Central,United States
+Brentwood,California,West,United States
+New Bedford,Massachusetts,East,United States
+Lakeville,Minnesota,Central,United States
+Inglewood,California,West,United States
+La Mesa,California,West,United States
+Coppell,Texas,Central,United States
+Garland,Texas,Central,United States
+Saint Charles,Missouri,Central,United States
+Draper,Utah,West,United States
+Modesto,California,West,United States
+Independence,Missouri,Central,United States
+Naperville,Illinois,Central,United States
+Woonsocket,Rhode Island,East,United States
+Boise,Idaho,West,United States
+Clovis,New Mexico,West,United States
+Grand Island,Nebraska,Central,United States
+Melbourne,Florida,South,United States
+Pine Bluff,Arkansas,South,United States
+Saint Cloud,Minnesota,Central,United States
+Helena,Montana,West,United States
+Miramar,Florida,South,United States
+Brownsville,Texas,Central,United States
+Mentor,Ohio,East,United States
+Lodi,California,West,United States
+Chico,California,West,United States
+Meridian,Idaho,West,United States
+League City,Texas,Central,United States
+Freeport,Illinois,Central,United States
+Camarillo,California,West,United States
+Durham,North Carolina,South,United States
+Deltona,Florida,South,United States
+Lawton,Oklahoma,Central,United States
+Saint Louis,Missouri,Central,United States
+Danville,California,West,United States
+Las Cruces,New Mexico,West,United States
+Springdale,Arkansas,South,United States
+Coachella,California,West,United States
+Sunnyvale,California,West,United States
+Pasco,Washington,West,United States
+Aberdeen,South Dakota,Central,United States
+Jupiter,Florida,South,United States
+Dublin,California,West,United States
+Grove City,Ohio,East,United States
+Elyria,Ohio,East,United States
+Escondido,California,West,United States
+Hillsboro,Oregon,West,United States
+Hagerstown,Maryland,East,United States
+Saginaw,Michigan,Central,United States
+College Station,Texas,Central,United States
+Ontario,California,West,United States
+Renton,Washington,West,United States
+Canton,Michigan,Central,United States
+Summerville,South Carolina,South,United States
+Garden City,Kansas,Central,United States
+Gladstone,Missouri,Central,United States
+Charlottesville,Virginia,South,United States
+Thornton,Colorado,West,United States
+Whittier,California,West,United States
+North Charleston,South Carolina,South,United States
+Palatine,Illinois,Central,United States
+Burlington,Iowa,Central,United States
+Abilene,Texas,Central,United States
+Oak Park,Illinois,Central,United States
+Port Orange,Florida,South,United States
+Danbury,Connecticut,East,United States
+Everett,Washington,West,United States
